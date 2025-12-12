@@ -1,3 +1,4 @@
+#created by Nazmuz Saif
 
 current_year = 2025
 birth_year = int(input("What year were you born? "))

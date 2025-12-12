@@ -1,3 +1,5 @@
+#created by Nazmuz Saif
+
 name = input("Enter Your Name ")
 adjective = input("Enter Your Adjective")
 noun = input("Enter Your Noun")

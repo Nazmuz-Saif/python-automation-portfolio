@@ -1,3 +1,5 @@
+#created by Nazmuz Saif
+
 import random
 print('---Game Fun---')
 print("Let's think a number!! OK, I'm done.")

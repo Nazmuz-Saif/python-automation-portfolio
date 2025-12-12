@@ -1,3 +1,5 @@
+#created by Nazmuz Saif
+
 print('---GRADE CALCULETOR---')
 grade = False
 massage = False

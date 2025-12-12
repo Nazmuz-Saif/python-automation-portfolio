@@ -1,3 +1,5 @@
+#created by Nazmuz Saif
+
 print('---CHECK STRENGTH---')
 
 passward = input('Enter your password: ')
