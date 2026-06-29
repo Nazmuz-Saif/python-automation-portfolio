@@ -1,21 +1,28 @@
 # 🐍 Python Automation Portfolio
 
-> A 30-day journey learning Python automation, web scraping, and scripting — one project per day.
+> Started as a 30-day Python learning challenge — covered core Python basics, file handling, and built small practical projects like a Contact Manager and Expense Tracker.
 
 ---
 
-## 🗓️ 30-Day Challenge Overview
+## 📋 What's Inside
 
-| Day | Project | Topics Covered |
-|-----|---------|---------------|
-| 01 | File Organizer | `os`, `shutil`, file handling |
-| 02 | Web Scraper | `requests`, `BeautifulSoup` |
-| 03 | Email Automator | `smtplib`, MIME |
-| 04 | PDF Merger | `PyPDF2` |
-| 05 | Excel Automation | `openpyxl` |
-| ... | ... | ... |
+| Day | Topic |
+|-----|-------|
+| Day 1 | Python basics — variables, loops, functions |
+| Day 2 | File handling — read, write, append |
+| Day 3 | Mini projects — Contact Manager, Expense Tracker |
 
-> 📌 *Update this table as you complete each day!*
+---
+
+## 🛠️ Projects Built
+
+### 📒 Contact Manager
+- Add, view, and delete contacts
+- Data saved to a file
+
+### 💰 Expense Tracker
+- Log daily expenses by category
+- View total spending summary
 
 ---
 
@@ -23,56 +30,15 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Libraries used:**
-- `requests` — HTTP requests
-- `BeautifulSoup4` — Web scraping
-- `selenium` — Browser automation
-- `openpyxl` — Excel automation
-- `smtplib` — Email automation
-- `os`, `shutil` — File system automation
-
 ---
 
-## 🚀 Getting Started
+## 🚀 How to Run
 
 ```bash
-# Clone the repository
 git clone https://github.com/Nazmuz-Saif/python-automation-portfolio.git
-cd python-automation-portfolio
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run any script
-python day01/file_organizer.py
+cd python-automation-portfolio/Day_1
+python script.py
 ```
-
----
-
-## 📁 Project Structure
-
-```
-python-automation-portfolio/
-├── day01/
-│   ├── script.py
-│   └── README.md
-├── day02/
-│   ├── script.py
-│   └── README.md
-├── ...
-└── requirements.txt
-```
-
----
-
-## 🎯 Goals
-
-- [x] Learn Python basics
-- [x] File & directory automation
-- [x] Web scraping with BeautifulSoup
-- [ ] Browser automation with Selenium
-- [ ] API integrations
-- [ ] Scheduled task automation
 
 ---
 
@@ -80,4 +46,5 @@ python-automation-portfolio/
 
 **Nazmuz Saif**
 🌐 [nazmuzsaif.onrender.com](https://nazmuzsaif.onrender.com)
-🐙 [github.com/Nazmuz-Saif](https://github.com/Nazmuz-Saif)
+💼 [LinkedIn](https://www.linkedin.com/in/nazmuzsaif/)
+🐙 [GitHub](https://github.com/Nazmuz-Saif)
